@@ -7,7 +7,7 @@ var obj= {
   "isDocuments6User" : true,
   "isEligibleForIntroPeriod" : false,
   "subscriptionAutoRenewStatus" : "autoRenewOff",
-  "subscriptionReceiptId" : "1530908572000"
+  "subscriptionReceiptId" : "1553232897000"
 };
 
 $done({body: JSON.stringify(obj)});
