@@ -1,0 +1,16 @@
+{
+    "sites": [
+        {
+            "name": "太av",
+            "type": 3,
+            "api": "csp_tav",
+            "ext": "https://raw.githubusercontent.com/carlosxu312/Scripting/refs/heads/master/XPTV/taiav.js"
+        },
+        {
+            "name": "javmove",
+            "type": 3,
+            "api": "csp_javmove",
+            "ext": "https://raw.githubusercontent.com/carlosxu312/Scripting/refs/heads/master/XPTV/javmove.js"
+        }
+    ]
+}
